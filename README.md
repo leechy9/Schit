@@ -12,8 +12,11 @@ To run the program, execute: `python schit.py [config_file] [init|show|diff|upda
 
 ### Options
 `init` - Creates a new database and deletes the old one.
+
 `show` - Display a listing of the files and their hashes.
+
 `diff` - Check for differences and display them.
+
 `update` - Update the database with modified hashes. (diff must be run before updating)
 
 ## License
