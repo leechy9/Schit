@@ -1,0 +1,13 @@
+<config>
+    <database>/home/nobody/Projects/schit.db</database>
+    <include>
+        <directory>/home/nobody/Downloads</directory>
+        <file>/home/nobody/Projects/test.txt</file>
+    </include>
+    <exclude>
+        <file>/home/nobody/Projects/schit.db</file>
+        <directory>/home/nobody/Music</directory>
+        <directory>/home/nobody/Videos</directory>
+        <directory>/home/nobody/Pictures</directory>
+    </exclude>
+</config>
